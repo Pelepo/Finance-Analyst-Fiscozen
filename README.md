@@ -16,8 +16,6 @@ Rimborsi: si assume che i rimborsi riducano immediatamente sia il fatturato sia 
 
 Incassi: la cassa incassata è calcolata come fatturato meno rimborsi, assumendo che le fatture siano pagate nello stesso mese di emissione.
 
-Mensile vs annuale: il modello non distingue tra pagamenti annuali e mensili nel riconoscimento dei ricavi, poiché il ricavo è determinato dalla durata del servizio erogato.
-
 ## Files
 
 - `finance_analysis.ipynb` – main notebook containing the analysis
